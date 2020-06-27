@@ -4,8 +4,10 @@ What's this?
 -It's a extension changer script written in python. You can change any extension to anything.
  It will just change the extension, it will not convert files, videos or anything else.
  
+ 
 What you need to use this?
 -Python3
+ 
  
 How to use this?
 -Open CMD/Powershell/Terminal
